@@ -1,12 +1,20 @@
 Hello! I'm Boda
 
+**Work**
+
 Frontend developer at [Festicket](https://www.festicket.com/)
+
+**Education**
 
 BSc Interactive Media, University of York (2013 -2017)
 
-Other links: [Homepage](https://bodazhao.com/), [LinkedIn](https://www.linkedin.com/in/boda-zhao/)
+**Links**
 
-Likes: 🍜 🏃‍♂️ 🎶 👾 🕺 🌿 👨‍💻 😴
+[Homepage](https://bodazhao.com/), [LinkedIn](https://www.linkedin.com/in/boda-zhao/)
+
+**Else**
+
+🍜 🏃‍♂️ 🎶 👾 🕺 🌿 👨‍💻 😴
 
 ---
 

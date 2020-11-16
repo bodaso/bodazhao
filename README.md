@@ -4,6 +4,8 @@ Frontend developer at [Festicket](https://www.festicket.com/)
 
 ![Boda's GitHub Stats](https://github-readme-stats.vercel.app/api?username=bodazhao&show_icons=true&theme=graywhite)
 
+![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=bodazhao&layout=compact)
+
 🍜 🏃‍♂️ 🎶 👾 🕺 🌿 👨‍💻 😴
 
 <details>

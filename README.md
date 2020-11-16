@@ -8,8 +8,6 @@ Frontend developer at [Festicket](https://www.festicket.com/)
 
 ![Boda's wakatime stats](https://github-readme-stats.vercel.app/api/wakatime?username=breakfast)
 
-🍜 🏃‍♂️ 🎶 👾 🕺 🌿 👨‍💻 😴
-
 <details>
 <summary><em>How do I create this README?</em></summary>
 Try creating a repo and name it with your username 😉

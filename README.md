@@ -2,6 +2,8 @@ Hello! I'm Boda
 
 Frontend developer at [Festicket](https://www.festicket.com/)
 
+[![trophy](https://github-profile-trophy.vercel.app/?username=bodazhao&theme=onedark)](https://github.com/ryo-ma/github-profile-trophy)
+
 ![Boda's GitHub Stats](https://github-readme-stats.vercel.app/api?username=bodazhao&show_icons=true&theme=graywhite)
 
 ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=bodazhao&layout=compact)

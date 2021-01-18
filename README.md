@@ -4,5 +4,6 @@
 
 - Frontend developer at [Festicket](https://www.festicket.com/)
 - [Blog](https://boda.dev/)
+- [Twitter](https://twitter.com/bodazhao)
 
 ![codersrank tech skills chart](https://cr-skills-chart-widget.azurewebsites.net/api/api?username=bodazhao)

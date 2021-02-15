@@ -6,4 +6,4 @@
 - [Blog](https://boda.dev/)
 - [Twitter](https://twitter.com/bodazhao)
 
-![codersrank tech skills chart](https://cr-skills-chart-widget.azurewebsites.net/api/api?username=bodazhao)
+<a href="https://wakatime.com"><img src="https://wakatime.com/share/@breakfast/eeb7d4fe-08da-40f0-8b58-c4ee41c948af.png" /></a>
